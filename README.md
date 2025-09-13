@@ -1,12 +1,8 @@
-# 🚀 My Coding Journey
+# 🚀 Welcome to My Coding Journey
 
-👩‍💻 I'm Dharshini, learning programming step by step.  
-Every program I write begins with **Hello, World!** 🌍✨  
+👩‍💻 Hi, I'm Dharshini!  
+Like every programmer, I started with **Hello, World!** 🌍  
+Step by step, I'm learning, practicing, and growing every day.  
+Welcome to my journey! ✨
 
-## 📘 Learning Path
-- ✅ Hello World
-- ✅ Variables & Data Types
-- ✅ Comments
-- ✅ Multi-word Variables
-- 🔜 More concepts coming soon...
 
